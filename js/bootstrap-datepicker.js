@@ -1,5 +1,5 @@
-/* =========================================================
- * bootstrap-datepicker.js
+
+otstrap-datepicker.js
  * http://www.eyecon.ro/bootstrap-datepicker
  * =========================================================
  * Copyright 2012 Stefan Petre
@@ -329,7 +329,6 @@
 					this.hasInput && this.element.find('input').val()
 				)
 			)
-				this.setValue();
 			this._trigger('hide');
 		},
 
