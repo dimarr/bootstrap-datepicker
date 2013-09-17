@@ -91,7 +91,7 @@
   display: block;
 }
 .datepicker table {
-  margin: 0;
+  margin: 5px;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -khtml-user-select: none;
